@@ -30,6 +30,7 @@ Welcome to my GitHub portfolio! I'm Laila, a passionate front-end developer and 
 ### 1. [Prayer Times Web App](https://github.com/LailaMosbah/prayer-times)
    - A responsive web application for displaying prayer times with a clean, user-friendly UI.
    - **Technologies used:** HTML, JavaScript, Axios for API requests.
+   - [Click me](https://lailamosbah.github.io/Prayer-times/)
 
 ---
 
