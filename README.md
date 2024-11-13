@@ -31,10 +31,6 @@ Welcome to my GitHub portfolio! I'm Laila, a passionate front-end developer and 
    - A responsive web application for displaying prayer times with a clean, user-friendly UI.
    - **Technologies used:** HTML, JavaScript, Axios for API requests.
 
-### 2. [Teacher Organizer](https://github.com/LailaMosbah/teacher-organizer)
-   - Built to help teachers manage lesson plans and organize teaching materials.
-   - **Technologies used:** MERN Stack (MongoDB, Express, React, Node.js).
-
 ---
 
 ## 📈 GitHub Stats
