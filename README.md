@@ -34,7 +34,7 @@ Welcome to my GitHub portfolio! I'm Laila, a passionate front-end developer and 
    - [GitHub Repository:](https://github.com/LailaMosbah/prayer-times)
 
 ### 2. To-Do List Web App
-   -A **responsive** and **interactive** to-do list application that allows users to manage their daily tasks efficiently.  
+   - A **responsive** and **interactive** to-do list application that allows users to manage their daily tasks efficiently.  
    - **Technologies used:** HTML, CSS (Bootstrap 5) ,JavaScript and Local Storage.
    - [Live Demo:](https://lailamosbah.github.io/To-Do-List/)
    - [GitHub Repository:](https://github.com/LailaMosbah/To-Do-List)
