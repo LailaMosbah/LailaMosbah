@@ -38,7 +38,11 @@ Welcome to my GitHub portfolio! I'm Laila, a passionate front-end developer and 
    - **Technologies used:** HTML, CSS (Bootstrap 5) ,JavaScript and Local Storage.
    - [Live Demo:](https://lailamosbah.github.io/To-Do-List/)
    - [GitHub Repository:](https://github.com/LailaMosbah/To-Do-List)
-
+### 3. Mood Tracker Web App
+   - A responsive mood tracker that displays random motivational quotes based on your emotion, with voice and copy features.
+   - **Technologies used:** HTML, CSS and JavaScript
+   - [Live Demo:] (https://lailamosbah.github.io/Interactive-Mood-Tracker/)
+   - [GitHub Repository:] (https://github.com/LailaMosbah/Interactive-Mood-Tracker)
 ---
 
 ## 📈 GitHub Stats
